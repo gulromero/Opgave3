@@ -1,0 +1,30 @@
+
+/*The header colour is yellow ish in the original, and we want the same here. .*/
+.navtext
+{
+  background-color:hsl(60, 71%, 90%);
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+}
+
+.teaching-header
+{
+  font-size: 24px;
+  text-align: center;
+}
+
+.yellow-background
+{
+  background-color:hsl(60, 100%, 90%);
+}
+
+.grey-background
+{
+  background-color: #ecebeb;
+}
+
+.anders-text
+{
+  font-size: 30px;
+}
